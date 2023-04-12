@@ -663,3 +663,10 @@ footer .about-member .col{
     height: auto;
     padding: 0 30px;
 }
+
+footer .contact-member{
+  background-color: #428b8689;
+}
+#page-header.contact-header{
+  background-image: url("./img/banner/b2.jpg");
+}
